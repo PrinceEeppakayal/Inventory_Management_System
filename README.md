@@ -69,10 +69,10 @@ qr-based-inventory-management-system
 - Automatic low-stock alerts
 
 ## Author
-Jyotiraditya Bhosale
-Prince Eppakayal
-Vedant Jagdale
-Om Rajbhar
+-Jyotiraditya Bhosale
+-Prince Eppakayal
+-Vedant Jagdale
+-Om Rajbhar
 
 ## License
 Educational project.
