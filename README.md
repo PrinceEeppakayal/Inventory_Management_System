@@ -50,6 +50,7 @@ qr-inventory-management
 │   ├── Interview image.jpg
 │   ├── Observation image.jpg
 │   ├── Organization Visit Image.jpg
+│   ├── Google Sheet.png
 │   └── Block Digram.jpg
 │
 ├── Documents
