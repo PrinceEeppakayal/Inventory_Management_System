@@ -35,6 +35,7 @@ This project proposes a **low-cost IoT-based solution** that automates inventory
 5. The spreadsheet stores **product ID and timestamp**.
 
 ## Project Structure
+'''
 qr-inventory-management
 │
 ├── Codes
@@ -51,6 +52,7 @@ qr-inventory-management
 │ └── QR BASED INVENTORY MANAGEMENT SYSTEM.pptx
 │
 └── README.md
+'''
 
 ## Future Improvements
 - Web dashboard for inventory analytics
